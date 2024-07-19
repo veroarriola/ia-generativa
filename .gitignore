@@ -1,4 +1,5 @@
 Programas/data/openml*
+Programas/data/cifar-10*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
